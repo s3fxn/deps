@@ -1,1 +1,0 @@
-dnf install -y --enablerepo PowerTools gcc automake bison zlib-devel libyaml-devel openssl-devel gdbm-devel readline-devel ncurses-devel libffi-devel bzip2
